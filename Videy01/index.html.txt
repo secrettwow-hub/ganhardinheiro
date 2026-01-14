@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script>(function(s){s.dataset.zone='9236034',s.src='https://bvtpk.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<script src="https://pl28473049.effectivegatecpm.com/6c/65/09/6c650975a2dab284b58d2359948e3faf.js"></script>
+
+    <meta charset="UTF-8">
+    <title>9YMdpERB1</title>
+
+<meta property="og:type" content="video.other" />
+<meta property="og:title" content="Watch Now - Viral Video" />
+<meta property="og:description" content="🔥 Must Watch Clip!" />
+<meta property="og:image" content="" />
+<meta property="og:url" content="https://cdn.videy.co/9YMdpERB1.mp4" />
+<meta property="og:site_name" content="https://cdn.videy.co/9YMdpERB1.mp4" />
+<meta property="fb:app_id" content="61586526301855" />
+
+
+    <style>
+body { font-family: Arial; background: #0a0a0a; text-align: center; padding: 30px; }
+video { width: 80%; max-width: 420px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3); background: #000; }
+.error { color: red; margin-top: 10px; font-size: 16px; }
+</style>
+
+<script src="https://pl28473049.effectivegatecpm.com/6c/65/09/6c650975a2dab284b58d2359948e3faf.js"></script>
+</head>
+<body>
+<h2>9YMdpERB1</h2>
+<div class="container">
+        <video id="mainVideo" controls muted playsinline poster="">
+    <source src="https://cdn.videy.co/9YMdpERB1.mp4" type="video/mp4">
+</video>
+</div>
+
+S
+</body>
+</html>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Page</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            padding: 0;
+            background: #000;
+            text-align: center;
+        }
+
+        #clickLayer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            cursor: pointer;
+            background: transparent;
+        }
+
+        video {
+            width: 100%;
+            max-width: 800px;
+           
+        }
+    </style>
+
+
+
